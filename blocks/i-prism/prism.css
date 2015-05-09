@@ -1,0 +1,32 @@
+.i-prism{
+    margin: 1em 0;
+    font-size: 13px;
+}
+
+.ctpl{
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.language-ctpl .token.operator {
+    background: none;
+}
+.language-ctpl .token.variables {
+    color: crimson;
+}
+.language-ctpl .token.js {
+    color: rgb(132, 0, 221);
+}
+.language-ctpl .token.backbone {
+    color: cadetblue;
+}
+
+.language-ctpl .token.number,
+
+.language-ctpl .token.boolean {
+    color: cornflowerblue;
+}
+
+.language-ctpl .token.function {
+    color: firebrick;
+}

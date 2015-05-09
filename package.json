@@ -1,0 +1,19 @@
+{
+  "name": "qex-prism",
+  "version": "0.0.4",
+  "private": true,
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.yandex-team.ru/bogdan/qex-prism.git"
+  },
+  "author": "Bogdan Maetchkin <maetchkin@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "lib": "blocks"
+  },
+  "dependencies": {
+    "prismjs": "git+ssh://git@github.com/LeaVerou/prism.git#gh-pages",
+    "glob": "4.0.6"
+  }
+}

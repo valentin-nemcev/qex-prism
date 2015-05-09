@@ -1,0 +1,6 @@
+node_modules
+lib
+*._*
+*.sublime*
+.DS_Store
+stand
