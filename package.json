@@ -5,7 +5,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.yandex-team.ru/bogdan/qex-prism.git"
+    "url": "git://github.com/maetchkin/qex-prism.git"
   },
   "author": "Bogdan Maetchkin <maetchkin@gmail.com>",
   "license": "MIT",
