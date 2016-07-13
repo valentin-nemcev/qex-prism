@@ -1,6 +1,7 @@
 i-prism $code $type
-    &"./../../node_modules/prismjs/themes/prism.css"
-    &"./../../node_modules/prismjs/prism.js"
+    &"./../../../prismjs/themes/prism.css"
+    &"./../../../prismjs/themes/prism.css"
+    &"./../../../prismjs/prism.js"
     &"./prism.js"
     &"./prism.css"
     div.i-prism
